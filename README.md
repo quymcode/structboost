@@ -29,5 +29,3 @@ O Structboost é um projeto que visa a estruturação de uma página, com destaq
 O projeto é responsivo e conta com pequenas animações para dar um toque especial.
 
 - [Acesse o projeto finalizado, online](https://quymcode.github.io/structboost/)
-
-[Quym Machado](www.linkedin.com/in/quym)
