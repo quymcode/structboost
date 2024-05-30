@@ -22,6 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - HTML e CSS
 - Git e Github
+- AOS - Animate on scroll library
 
 ## 💻 Projeto
 
